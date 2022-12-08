@@ -1,5 +1,5 @@
 # DS-4002-CS-2-Case-Study 
-## |CS - Football Tweet
+## CS - Football Tweet
 
 By: Adina Kugler
 
