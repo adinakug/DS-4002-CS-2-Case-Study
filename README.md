@@ -10,7 +10,7 @@ This is a case study assignment that will better your skills as a data scientist
 2. Next read the [rubric](https://github.com/adinakug/DS-4002-CS-2-Case-Study/blob/b6f1f7f731e18b58dfb9f0d2b222c36d1e03c360/Rubric.pdf)
 3. Then read through the articles
 
-### Article Table of Contents
+## Article Table of Contents
 | Title of Article | Internet Link | Github Link |
 | :--------------- |:-------------:| -----------:|
 | Building High Quality Filters For Getting Twitter Data| [link](https://developer.twitter.com/en/docs/tutorials/building-high-quality-filters) | [Article - Building high-quality filters Twitter](https://github.com/adinakug/DS-4002-CS-2-Case-Study/blob/70f40e17fc5173b91e4ecfae61b14c435e6805d7/Article%20-%20Building%20high-quality%20filters%20Twitter.pdf) |
