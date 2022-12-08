@@ -6,11 +6,11 @@ By: Adina Kugler
 This is a case study assignment that will better your skills as a data scientist.
 
 ## Road Map
-1. Start with reading the prompt
-2. Next read the rubric
+1. Start with reading the [one page hook](https://github.com/adinakug/DS-4002-CS-2-Case-Study/blob/19b4f0bb15fd382e2517fe21cb1f03259276a46c/One-page%20hook.pdf)
+2. Next read the [rubric]
 3. Then read through the articles
 
-### Article Descriptions
+### Article Table of Contents
 | Title of Article | Internet Link | Github Link |
 | :--------------- |:-------------:| -----------:|
 | Building High Quality Filters For Getting Twitter Data| [link](https://developer.twitter.com/en/docs/tutorials/building-high-quality-filters) | [Article - Building high-quality filters Twitter](https://github.com/adinakug/DS-4002-CS-2-Case-Study/blob/70f40e17fc5173b91e4ecfae61b14c435e6805d7/Article%20-%20Building%20high-quality%20filters%20Twitter.pdf) |
