@@ -1,7 +1,7 @@
 # DS-4002-CS-2-Case-Study 
 ## CS - Football Tweet
 
-By: Adina Kugler
+Created By: Adina Kugler
 
 This is a case study assignment that will better your skills as a data scientist.
 
