@@ -7,7 +7,7 @@ This is a case study assignment that will better your skills as a data scientist
 
 ## Road Map
 1. Start with reading the [one page hook](https://github.com/adinakug/DS-4002-CS-2-Case-Study/blob/19b4f0bb15fd382e2517fe21cb1f03259276a46c/One-page%20hook.pdf)
-2. Next read the [rubric]
+2. Next read the [rubric](https://github.com/adinakug/DS-4002-CS-2-Case-Study/blob/b6f1f7f731e18b58dfb9f0d2b222c36d1e03c360/Rubric.pdf)
 3. Then read through the articles
 
 ### Article Table of Contents
